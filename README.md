@@ -53,6 +53,7 @@ The system design consists of a waste detection mechanism and an actuator-based 
 
    ![image](https://github.com/user-attachments/assets/16ad2a83-4e4a-449a-8d48-0d7795ffe827)
    ![image](https://github.com/user-attachments/assets/ddf07207-2e9c-4f5d-8771-b49896d79a5f)
+   ![image](https://github.com/user-attachments/assets/34c3d03a-7712-4307-865b-a1b7c9f364ac)
 
 ### Methodology
 1. **Waste Detection**: YOLO v7 model classifies the waste based on images.
