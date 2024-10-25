@@ -6,7 +6,7 @@ This project focuses on developing a **Smart Dustbin** system that integrates **
 
 ### Key Features:
 - **Automated waste detection and segregation** using YOLO v7.
-- **Actuator-driven smart dustbin** that opens and closes based on waste type.
+- **Actuator-driven smart dustbin** that opens and carries the waste to the particular bin.
 - **Waste type classification** into categories such as plastics, metals, paper, etc.
 - **Efficient and sustainable waste management**.
 
